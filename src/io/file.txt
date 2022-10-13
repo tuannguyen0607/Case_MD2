@@ -1,0 +1,3 @@
+Tuannguyen0607,Tuannguyen@0607,Tuan nguyen,25,(+84)-987579297,Ha noi,tuannguyen@gmail.com,Manager
+null,Tuan@1997,Hai,20,(+84)-911112222,hanoi,akfjfgh@gmail.com,staff
+Tuan1997,Tuan@1997,Tuan,28,(+84)-911112222,hanoi,tuannguyen@gmail.com,Staff
